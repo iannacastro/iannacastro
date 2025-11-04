@@ -36,7 +36,3 @@ Análise de comportamento de clientes e criação de clusters para direcionar ca
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/ianna-castro-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-122b56109?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdqCeLI%2B5TgCTAA50yqID%2Bg%3D%3D)  
 - [E-mail](iannacastrop@gmail.com)
-
---- 
- _"Café, bons livros e dashboards interativos movem meu dia."_ ☕📚📊
-Atualmente lendo "Superpensamento: O Grande Libro de Modelos Mentais" e "Como Conversar com Qualquer Pessoa".
